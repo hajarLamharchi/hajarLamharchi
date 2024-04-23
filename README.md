@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hajarLamharchi
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Software Engineering at ALX-Africa
+- 🌱 I’m a Software Engineering graduate from ALX-Africa specialized in Frontend
 - 💞️ I’m looking to collaborate on any interesting project
 - 📫 How to reach me hajar.lamharchi@gmail.com
 
